@@ -47,7 +47,6 @@ public class Hotel {
                 System.out.println("Pilihan tidak valid.");
             }
         } else if (pilihan == 2) {
-            // Customer input
             System.out.println("=============================================");
             System.out.println("              INFORMASI PEMESAN                 ");
             System.out.println("=============================================");
